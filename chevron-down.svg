@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="20" viewBox="0 0 21 20" fill="none">
+  <g id="20/Arrows/chevron down">
+    <mask id="mask0_1516_408" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="21" height="20">
+      <rect id="Bounding box" x="0.5" width="20" height="20" fill="#D9D9D9"></rect>
+    </mask>
+    <g mask="url(#mask0_1516_408)">
+      <path id="expand_more" d="M10.5 13.062L5.5 8.062L6.562 7L10.5 10.938L14.438 7L15.5 8.062L10.5 13.062Z" fill="#DCCCFF"></path>
+    </g>
+  </g>
+</svg>
